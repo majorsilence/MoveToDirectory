@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveToDirectory", "MoveToDirectory\MoveToDirectory.csproj", "{DE166D97-36D5-433B-A83A-D8562787078B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE166D97-36D5-433B-A83A-D8562787078B}.Debug|x86.ActiveCfg = Debug|x86
+		{DE166D97-36D5-433B-A83A-D8562787078B}.Debug|x86.Build.0 = Debug|x86
+		{DE166D97-36D5-433B-A83A-D8562787078B}.Release|x86.ActiveCfg = Release|x86
+		{DE166D97-36D5-433B-A83A-D8562787078B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MoveToDirectory\MoveToDirectory.csproj
+	EndGlobalSection
+EndGlobal
